@@ -1,0 +1,1 @@
+UPDATE `loginformadmin` SET `pass`='ayan',`experience`='5 Years',`email`='ayan9923@gmail.com',`phone`='7802877782'  WHERE `user`='786';

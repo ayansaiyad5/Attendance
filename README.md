@@ -1,4 +1,3 @@
-# AYANSAIYAD
 # Attendance Management System
 ## This is Developed by Ayan Saiyad   <br><br>
 

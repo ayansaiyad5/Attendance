@@ -38,7 +38,7 @@ MySQL is used as database. Database design is made easy to understand.
 2. Project file move to C:\xampp\htdocs
 3. Start xampp and google search http://localhost/phpmyadmin/
 4. Create/import - database presentseek.sql
-5. Search - http://localhost/AYANSAIYAD/
+5. Search - http://localhost/ folder name
 
 ### Database 
 C:\xampp\htdocs\AYANSAIYAD\DataBase - presentseek.sql
